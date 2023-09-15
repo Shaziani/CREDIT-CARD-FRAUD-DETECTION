@@ -27,3 +27,6 @@ Following are the steps taken to achieve the objective of the project:
 **Model-Building:** This is the final step at which we can try different models and fine-tune their hyperparameters until we get the desired level of performance on the given dataset. We should try and see if we get a better model by the various sampling techniques.
 
 **Model Evaluation:** evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
+
+# conclusion
+We have tried several models till now and noticed most of the models have performed more or less well in terms of Accuracy, MCC, Precision and Recall but Random Forest Model we are getting a better result.
