@@ -18,7 +18,7 @@ Following are the steps taken to achieve the objective of the project:
 
 **Loading the Data/ ETL:** A python script has been written to mock the actual ETL. The data is *Extracted* from a source(abouve mentioned link in this case and then minor operations has been perfoemed on the data to show the concepts of *Transformtion* and fillaly data is *Loaded* to another location. The IDE used is PyCharm to create the python scrpt and file is uploaded in this repository. 
 
-**UNderstanding the Data:** The .py file is then called in jupyter notebook to understand the data features.This would help us choose the features that we will need for your final model.
+**Understanding the Data:** The .py file is then called in jupyter notebook to understand the data features.This would help us choose the features that we will need for your final model.
 
 **Exploratory data analytics (EDA)**: we need to perform univariate and bivariate analyses of the data, followed by feature transformations, if necessary. This
 
@@ -28,5 +28,5 @@ Following are the steps taken to achieve the objective of the project:
 
 **Model Evaluation:** evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
 
-# conclusion
+# Conclusion
 We have tried several models till now and noticed most of the models have performed more or less well in terms of Accuracy, MCC, Precision and Recall but Random Forest Model we are getting a better result.
